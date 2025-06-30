@@ -1,4 +1,4 @@
-cat > README.md << EOF
+
 # 🍔 Cardápio Digital API - Backend
 
 Bem-vindo ao **backend** do projeto **Cardápio Digital**, construído com **Spring Boot** e **Java 21**.  
@@ -173,4 +173,3 @@ DELETE http://localhost:8080/food/1
 
 ## 👤 Criador
 Saylon Santana  
- 
