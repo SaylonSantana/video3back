@@ -83,7 +83,7 @@ CardapioApplication.java
 
 ## 📂 Estrutura de Pastas (src/main/java):
 
-\`\`\`
+```
 src/
 ├── main/
 │   ├── java/
@@ -100,7 +100,7 @@ src/
 │   └── resources/
 │       └── application.properties
 └── test/
-\`\`\`
+```
 
 ---
 
